@@ -1,1 +1,0 @@
-# grupo_de_estudo_python
