@@ -1,0 +1,141 @@
+---
+title: "Introdução ao Python"
+subtitle: "Tipos de variáveis"
+author: "<img src = 'https://raw.githubusercontent.com/stat-techbr/introducao_a_estatistica_com_R/main/logo-stat-tech-color-fundo-escuro-horiz.png' width = '50%'>"
+institute: "Edneide Ramalho"
+date: "Outubro de 2021"
+enconding: "UTF-8"
+output:
+  xaringan::moon_reader:
+    css: ["rladies", "rladies-fonts"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+library(reticulate)
+```
+
+
+class: inverse, middle, center
+background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/e2d36a7f-7ca4-4858-b311-2c23ee271452/d6fjupg-89baedc7-d785-42c7-8f77-ca71462c89e0.png)
+background-size: contain
+
+# Variáveis
+
+---
+# Bem-vindo ao Python
+```{r, eval=FALSE}
+print("Hello world!")
+```
+
+---
+# Criando variáveis
+
+```{r, eval=FALSE}
+altura = 1.79
+peso = 68.7
+```
+
+```{r, eval=FALSE}
+print(altura)
+print(peso)
+```
+
+
+---
+# Criando variáveis
+
+- Calculando o IMC:
+
+```{r, eval=FALSE}
+imc = peso/altura**2
+```
+
+
+```{r, eval=FALSE}
+print(imc)
+```
+
+---
+# Tipos de variáveis
+
+```{r, eval = FALSE}
+type(imc)
+```
+
+```{r, eval = FALSE}
+dia_da_semana = 5
+type(dia_da_semana)
+```
+
+---
+# Tipos de variáveis
+
+```{r, eval = FALSE}
+x = "indice de massa corporea"
+y = 'assim tambem funciona'
+```
+
+```{r, eval = FALSE}
+type(x)
+type(y)
+```
+
+---
+# Tipos de variáveis
+
+```{r, eval = FALSE}
+z = True
+```
+
+```{r, eval = FALSE}
+type(z)
+```
+
+---
+# Tipos de variáveis
+
+- Tipos diferentes, comportamentos diferentes: 
+```{r, eval = FALSE}
+2 + 3
+```
+
+```{r, eval = FALSE}
+'ab' + 'cd'
+```
+
+---
+# Exercícios
+
+1. Crie uma variável chamada `economias` e atribua à ela o valor 1500.
+2. Imprima a variável `economias` e o seu tipo.
+3. Os juros compostos são calculados como se segue:
+
+$$M = C \times (1 + i)^n$$
+em que,
+
+- $M$ = Montante
+- $C$ = Capital
+- $i$ = taxa de juros
+- $n$ = tempo
+
+Suponha que você vá fazer um investimento com juros de 3% ao ano, e você aplica o capital salvo na sua variável `economias`, ou seja, R$ 1500. Qual será seu montante ao final de 7 anos? Crie as variáveis presentes na equação acima, salvando o resultado na variável `montante` e imprima o resultado. 
+
+
+---
+# Convertendo os tipos de variáveis
+
+- `str()`: string (tecto)
+- `float()`: float (número flutuante)
+- `int()`: inteiro
+- `bool()`: booleano (Verdadeiro ou Falso)
+
+## Exemplo:
+```{r, eval=FALSE}
+print("Eu comecei com R$" + str(economias) + " e agora eu tenho R$" + str(montante) + ". Maravilha!!!!")
+```
+
