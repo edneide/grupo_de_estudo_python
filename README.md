@@ -35,4 +35,4 @@ Depois de aprendermos as estruturas básicas do Python, vamos seguir o livro *Da
 - [Gravação da Aula 02](
 https://drive.google.com/file/d/1cF2OCmFnq700vUz6nOzzQnuUSj3w5lRC/view?usp=sharing)
 
-- [Script da Aula 02](https://github.com/edneide/grupo_de_estudo_python/blob/main/Aula%201.ipynb)
+- [Script da Aula 02](https://github.com/edneide/grupo_de_estudo_python/blob/main/Aula%202%20-%20Listas.ipynb)
