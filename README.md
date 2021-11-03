@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/stat-techbr/introducao_a_estatistica_com_R/main/logo-stat-tech-color-fundo-escuro-horiz.png)
+
 # Grupo de Estudos de Python
 
 O objetivo deste grupo de estudos é aprender os fundamentos de Python aplicados à Ciência de Dados. Cada semana nos reunimos e avançamos no conteúdo. 
