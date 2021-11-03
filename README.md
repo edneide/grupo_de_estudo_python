@@ -22,6 +22,7 @@ Depois de aprendermos as estruturas básicas do Python, vamos seguir o livro *Da
   + `logical`
 
 - [Script da Aula 01](https://github.com/edneide/grupo_de_estudo_python/blob/main/Aula%201.ipynb)
+- [Slides da Aula 01](https://github.com/edneide/grupo_de_estudo_python/blob/main/001_tipos_de_variaveis.pdf)
   
   
   
