@@ -29,3 +29,7 @@ Depois de aprendermos as estruturas básicas do Python, vamos seguir o livro *Da
   + Criação de listas
   + Listas com mais de um tipo de variável
   + Lista de listas
+
+- [Gravação da Aula 02](
+https://drive.google.com/file/d/1cF2OCmFnq700vUz6nOzzQnuUSj3w5lRC/view?usp=sharing)
+
