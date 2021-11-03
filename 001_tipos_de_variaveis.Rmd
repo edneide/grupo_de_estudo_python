@@ -129,13 +129,32 @@ Suponha que você vá fazer um investimento com juros de 3% ao ano, e você apli
 ---
 # Convertendo os tipos de variáveis
 
-- `str()`: string (tecto)
+- `str()`: string (texto)
 - `float()`: float (número flutuante)
 - `int()`: inteiro
 - `bool()`: booleano (Verdadeiro ou Falso)
 
 ## Exemplo:
 ```{r, eval=FALSE}
-print("Eu comecei com R$" + str(economias) + " e agora eu tenho R$" + str(montante) + ". Maravilha!!!!")
+print("Eu comecei com R$" + 
+        str(economias) + " e agora eu tenho R$" + 
+        str(montante) + ". Maravilha!!!!")
+```
+
+```{r, include=FALSE}
+# # Script para salvar os slides de Xaringan em pdf
+# 
+# #install.packages(c("pagedown", "xaringan"))
+# pagedown::chrome_print(paste0(getwd(),
+#                               "001_tipos_de_variaveis.Rmd")
+# )
+# 
+# #remotes::install_github("jhelvy/xaringanBuilder")
+# #remotes::install_github('rstudio/chromote')
+# 
+# library(xaringanBuilder)
+# build_pdf(paste0(getwd(),
+#                               "001_tipos_de_variaveis.Rmd"))
+# build_pdf("001_tipos_de_variaveis.html")
 ```
 
