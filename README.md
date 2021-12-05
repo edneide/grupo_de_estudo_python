@@ -37,3 +37,16 @@ Depois de aprendermos as estruturas básicas do Python, vamos seguir o livro *Da
 https://drive.google.com/file/d/1cF2OCmFnq700vUz6nOzzQnuUSj3w5lRC/view?usp=sharing)
 
 - [Script da Aula 02](https://github.com/edneide/grupo_de_estudo_python/blob/main/Aula%202%20-%20Listas.ipynb)
+
+
+## Aula 03
+
+- Listas em Python:
+  + Criação de listas
+  + Listas com mais de um tipo de variável
+  + Lista de listas
+
+- [Gravação da Aula 03](
+https://drive.google.com/file/d/1KAGh6ycWcPpPE-fXzetvT56vye2y0QC5/view?usp=sharing)
+
+- [Script da Aula 03](https://github.com/edneide/grupo_de_estudo_python/blob/main/Aula%202%20-%20Listas.ipynb)
