@@ -60,8 +60,9 @@ https://drive.google.com/file/d/1KAGh6ycWcPpPE-fXzetvT56vye2y0QC5/view?usp=shari
 
 - Git e GitHub
 
-- [Parte 1](
+- Gravação da Aula 04
+  + [Parte 1](
 https://drive.google.com/file/d/1RUeqzc0u3GRLYh2Aq-PUr-RcvEMSnHMZ/view?usp=sharing)
 
-- [Parte 2](
+  + [Parte 2](
 https://drive.google.com/file/d/1LaW-PfkTz_skOZxAbhYBSHWL6MctgSYr/view?usp=sharing)
