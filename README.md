@@ -55,3 +55,13 @@ https://drive.google.com/file/d/1cF2OCmFnq700vUz6nOzzQnuUSj3w5lRC/view?usp=shari
 https://drive.google.com/file/d/1KAGh6ycWcPpPE-fXzetvT56vye2y0QC5/view?usp=sharing)
 
 - [Script da Aula 03](https://github.com/edneide/grupo_de_estudo_python/blob/main/Aula%2003.ipynb)
+
+## Aula 04
+
+- Git e GitHub
+
+- [Parte 1](
+https://drive.google.com/file/d/1RUeqzc0u3GRLYh2Aq-PUr-RcvEMSnHMZ/view?usp=sharing)
+
+- [Parte 2](
+https://drive.google.com/file/d/1LaW-PfkTz_skOZxAbhYBSHWL6MctgSYr/view?usp=sharing)
