@@ -17,11 +17,13 @@ Depois de aprendermos as estruturas básicas do Python, vamos seguir o livro *Da
 
 <a href="https://www.oreilly.com/library/view/data-science-projects/9781800564480/" rel="some text">![Foo](https://learning.oreilly.com/library/cover/9781800564480/250w/)</a>
 
+# Outros materiais e sites interessantes
+
+<a href="https://penseallen.github.io/PensePython2e/" rel="some text">![Foo](https://raw.githubusercontent.com/PenseAllen/PensePython2e/master/img/Capa_PenseEmPython167x232.png)</a>
 
 
 
-
-## Aula 01
+> ## Aula 01
 
 - Tipos de variáveis em Python:
   + `int`
@@ -34,7 +36,7 @@ Depois de aprendermos as estruturas básicas do Python, vamos seguir o livro *Da
   
   
   
-## Aula 02
+> ## Aula 02
 
 - Listas em Python:
   + Criação de listas
@@ -47,7 +49,7 @@ https://drive.google.com/file/d/1cF2OCmFnq700vUz6nOzzQnuUSj3w5lRC/view?usp=shari
 - [Script da Aula 02](https://github.com/edneide/grupo_de_estudo_python/blob/main/Aula%202%20-%20Listas.ipynb)
 
 
-## Aula 03
+> ## Aula 03
 
 - Projeto: Clientes de Cartão de Crédito
 
@@ -56,7 +58,7 @@ https://drive.google.com/file/d/1KAGh6ycWcPpPE-fXzetvT56vye2y0QC5/view?usp=shari
 
 - [Script da Aula 03](https://github.com/edneide/grupo_de_estudo_python/blob/main/Aula%2003.ipynb)
 
-## Aula 04
+> ## Aula 04
 
 - Git e GitHub
 
@@ -66,3 +68,8 @@ https://drive.google.com/file/d/1RUeqzc0u3GRLYh2Aq-PUr-RcvEMSnHMZ/view?usp=shari
 
   + [Parte 2](
 https://drive.google.com/file/d/1LaW-PfkTz_skOZxAbhYBSHWL6MctgSYr/view?usp=sharing)
+
+> ## Aula 05
+
+- Projeto: Clientes de Cartão de Crédito (continuação)
+
